@@ -1,0 +1,4 @@
+out/
+.idea/
+*.iml
+avocado-plugin.jar
