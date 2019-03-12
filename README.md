@@ -6,7 +6,9 @@
 `VectorDrawable` (VD) and `AnimatedVectorDrawable` (AVD) xml files.
 
 ## Installation
-You can install the plugin from the [`Plugin Repository`][Plugin Repository].
+Install [`avocado tool`][avocado tool] 
+
+Then you can install the plugin from the [`Plugin Repository`][Plugin Repository].
 
 ## Usage
 This plugin can be used in two different ways:
