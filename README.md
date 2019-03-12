@@ -13,7 +13,7 @@ This plugin can be used in two different ways:
 
 1. Tap on `drawable` folder to optimize all the vectors:
 
-![All vectors](images/Optimize_all_vectors.png=250x250)
+![All vectors](images/Optimize_all_vectors.png)
 
 2. Tap on any vector from `drawable` folder to optimize:
 
