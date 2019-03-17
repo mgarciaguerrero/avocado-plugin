@@ -1,13 +1,12 @@
 <idea-plugin>
     <id>com.mgarciaguerr.avocado.plugin</id>
-    <name>Vector Drawable optimization tool</name>
-    <version>1.0</version>
-    <vendor email="marc.garcia.guerrero@gmail.com" url="https://github.com/mgarciaguerrero">Marc Garcia</vendor>
+    <name>Avocado - Vector Drawable optimization</name>
+    <version>1.0.1</version>
+    <vendor email="marc.garcia.guerrero@gmail.com" url="https://github.com/mgarciaguerrero/avocado-plugin">Marc Garcia</vendor>
 
     <description><![CDATA[
-      This plugin is based on <a href="https://github.com/alexjlockwood/avocado">avocado tool</a> from
-      <a href="https://github.com/alexjlockwood">from Alex Lockwood</a>.
-      Avocado is a command line tool that optimizes Android VectorDrawable and AnimatedVectorDrawable xml files.<br>
+      This plugin is based on <a href="https://github.com/alexjlockwood/avocado">avocado tool</a>.
+      It runs avocado tool to optimize Android VectorDrawable and AnimatedVectorDrawable xml files.<br>
     ]]></description>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
