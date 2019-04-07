@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.mgarciaguerr.avocado.plugin</id>
     <name>Avocado - Vector Drawable optimization</name>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <vendor email="marc.garcia.guerrero@gmail.com" url="https://github.com/mgarciaguerrero/avocado-plugin">Marc Garcia</vendor>
 
     <description><![CDATA[

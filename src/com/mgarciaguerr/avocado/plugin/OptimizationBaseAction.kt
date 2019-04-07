@@ -17,7 +17,7 @@ open class OptimizationBaseAction : AnAction() {
     override fun actionPerformed(anActionEvent: AnActionEvent) {
         anActionEvent.getData(PlatformDataKeys.VIRTUAL_FILE)?.canonicalPath?.let {
             try {
-                val proc = ProcessBuilder("avocado", "\"$it\"").start()
+                val proc = ProcessBuilder("avocado", it).start()
                 proc.waitFor()
                 handleSuccess(anActionEvent, proc)
             } catch (e: Exception) {
